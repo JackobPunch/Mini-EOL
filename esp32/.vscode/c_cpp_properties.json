@@ -230,6 +230,12 @@
                 "/home/jpunch/.platformio/packages/framework-espidf/components/perfmon/include",
                 "/home/jpunch/.platformio/packages/framework-espidf/components/rt/include",
                 "/home/jpunch/.platformio/packages/framework-espidf/components/spiffs/include",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_transports",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_controller/common/include",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_objects/common",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/common",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/serial",
+                "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/tcp",
                 ""
             ],
             "browse": {
@@ -457,6 +463,12 @@
                     "/home/jpunch/.platformio/packages/framework-espidf/components/perfmon/include",
                     "/home/jpunch/.platformio/packages/framework-espidf/components/rt/include",
                     "/home/jpunch/.platformio/packages/framework-espidf/components/spiffs/include",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_transports",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_controller/common/include",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_objects/common",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/common",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/serial",
+                    "/home/jpunch/Mini-EOL/esp32/managed_components/espressif__esp-modbus/modbus/mb_ports/tcp",
                     ""
                 ]
             },
